@@ -87,4 +87,4 @@ Deployed on [Render](https://render.com). Each push to `main` triggers an automa
 
 ---
 
-*Developed by Alona Brytvina.*
+*Developed by Alona Brytvina following the Node.js, Express, MongoDB & More course by Jonas Schmedtmann.*
