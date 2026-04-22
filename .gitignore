@@ -1,7 +1,8 @@
 node_modules
 .cache
+.parcel-cache
+.idea
 config.env
 public/js/bundle.js.map
 public/tour.html
 public/overview.html
-.parcel-cache
