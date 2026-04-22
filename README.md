@@ -87,4 +87,4 @@ Deployed on [Render](https://render.com). Each push to `main` triggers an automa
 
 ---
 
-*Built as part of the Node.js Bootcamp by Jonas Schmedtmann.*
+*Developed by Alona Brytvina.*
