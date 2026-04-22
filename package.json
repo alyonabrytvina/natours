@@ -10,8 +10,8 @@
     "start": "node server.js",
     "dev": "nodemon server.js",
     "start:prod": "NODE_ENV=production node server.js",
-    "build:js": "parcel build ./public/js/index.js --out-dir ./public/js --out-file bundle.js",
-    "postinstall": "npm run build:js"
+    "build:js": "parcel build ./public/js/index.js --dist-dir ./public/js --no-cache",
+    "postinstall": "echo 'skipping build'"
   },
   "author": "Alona Brytvina",
   "license": "ISC",
